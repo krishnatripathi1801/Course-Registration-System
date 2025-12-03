@@ -321,7 +321,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 <div align="center">
 
-**Pracheer Srivastava**
+**Krishna Tripathi**
 - 🌐 **GitHub**: [@krishnatripathi1801](https://github.com/krishnatripathi1801?tab=repositories)
 - 📧 **Email**: krishna.23bce100436@vitbhopal.ac.in
 - 💼 **LinkedIn**: [Krishna Tripathi](linkedin.com/in/krishna-tripathi-403993272/?skipRedirect=true)
